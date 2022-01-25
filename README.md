@@ -1,6 +1,6 @@
 # Intro | Programing using C++
 
-On January 19, 2022 I created my first C++ program for an in class assignment. In this Program the user will be Prompt to enter an Interger, a char, and their First name. 
+On January 19, 2022 I created my first C++ program for an in class assignment. In this Program the user will be Prompted to enter an Interger, a char, and their First name. 
 Then the user will be greeted with a message showing what they were prompted. 
 
 
@@ -12,4 +12,4 @@ Then the user will be greeted with a message showing what they were prompted.
 3. int main() {
                }
 4. endl     (Is used to end the line, any thing that comes after will begin on a new line or cell.)
-5. ;       (Is required at the end of every line.) 
+5. " ; "       (Is required at the end of every line.) 
